@@ -1,0 +1,5 @@
+util/nist_random.c:32:13:aesdrbg_update	192	static
+util/nist_random.c:50:6:aes256ctr_xof_init	32	static
+util/nist_random.c:59:5:aes256ctr_xof	224	static
+util/nist_random.c:86:6:nist_randombytes_init	96	static
+util/nist_random.c:105:5:nist_randombytes	208	static

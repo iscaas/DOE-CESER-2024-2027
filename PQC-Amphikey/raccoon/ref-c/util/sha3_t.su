@@ -1,0 +1,7 @@
+util/sha3_t.c:13:6:sha3_init	32	static
+util/sha3_t.c:22:6:sha3_absorb	80	static
+util/sha3_t.c:52:6:sha3_pad	16	static
+util/sha3_t.c:63:6:sha3_squeeze	80	static
+util/sha3_t.c:88:6:sha3_clear	8	static
+util/sha3_t.c:95:6:sha3_hash	512	static
+util/sha3_t.c:107:6:shake_xof	512	static

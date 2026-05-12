@@ -1,0 +1,4 @@
+util/keccakf1600.c:12:6:keccak_clear	8	static
+util/keccakf1600.c:23:6:keccak_extract	8	static
+util/keccakf1600.c:34:6:keccak_xorbytes	16	static
+util/keccakf1600.c:45:6:keccak_f1600	512	static

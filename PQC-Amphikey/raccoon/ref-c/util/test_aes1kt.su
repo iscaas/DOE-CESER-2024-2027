@@ -1,0 +1,7 @@
+util/test_aes1kt.c:94:6:aes1kt128_enc_key	56	static
+util/test_aes1kt.c:118:6:aes1kt192_enc_key	56	static
+util/test_aes1kt.c:148:6:aes1kt256_enc_key	32	static
+util/test_aes1kt.c:186:6:aes1k_enc_rounds	56	static
+util/test_aes1kt.c:262:6:aes1kt128_enc_ecb	8	static
+util/test_aes1kt.c:268:6:aes1kt192_enc_ecb	8	static
+util/test_aes1kt.c:274:6:aes1kt256_enc_ecb	8	static

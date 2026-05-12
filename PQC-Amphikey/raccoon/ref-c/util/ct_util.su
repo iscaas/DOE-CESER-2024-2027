@@ -1,0 +1,2 @@
+util/ct_util.c:10:6:ct_equal	16	static
+util/ct_util.c:24:6:ct_cmov	24	static

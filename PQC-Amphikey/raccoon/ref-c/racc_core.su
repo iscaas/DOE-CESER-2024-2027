@@ -1,0 +1,4 @@
+racc_core.c:203:13:racc_check_bounds	56	static
+racc_core.c:265:6:RACCOON_128_1_core_keygen	24784	static
+racc_core.c:324:6:RACCOON_128_1_core_sign	155952	static
+racc_core.c:465:6:RACCOON_128_1_core_verify	53488	static

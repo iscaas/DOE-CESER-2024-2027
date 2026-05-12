@@ -1,0 +1,16 @@
+polyr.c:16:6:polyr_zero	8	static
+polyr.c:27:6:polyr_copy	8	static
+polyr.c:38:6:polyr_add	8	static
+polyr.c:49:6:polyr_sub	8	static
+polyr.c:60:6:polyr_addq	24	static
+polyr.c:69:6:polyr_ntt_addq	24	static
+polyr.c:77:6:polyr_subq	16	static
+polyr.c:87:6:polyr_ntt_subq	16	static
+polyr.c:95:6:polyr_addm	16	static
+polyr.c:106:6:polyr_subm	16	static
+polyr.c:117:6:polyr_negm	8	static
+polyr.c:128:6:polyr_shlm	8	static
+polyr.c:139:6:polyr_shrm	8	static
+polyr.c:150:6:polyr_round	16	static
+polyr.c:161:6:polyr_center	8	static
+polyr.c:176:6:polyr_nonneg	8	static

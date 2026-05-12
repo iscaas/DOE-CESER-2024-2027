@@ -1,0 +1,5 @@
+xof_sample.c:15:6:RACCOON_128_1_xof_chal_mu	480	static
+xof_sample.c:30:6:RACCOON_128_1_xof_sample_q	496	static
+xof_sample.c:55:6:RACCOON_128_1_xof_sample_u	528	static
+xof_sample.c:84:6:RACCOON_128_1_xof_chal_hash	512	static
+xof_sample.c:121:6:RACCOON_128_1_xof_chal_poly	480	static

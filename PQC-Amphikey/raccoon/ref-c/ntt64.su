@@ -1,0 +1,5 @@
+ntt64.c:175:6:polyr_fntt	56	static
+ntt64.c:205:6:polyr_intt	56	static
+ntt64.c:239:6:polyr_ntt_smul	32	static
+ntt64.c:250:6:polyr_ntt_cmul	40	static
+ntt64.c:261:6:polyr_ntt_mula	24	static

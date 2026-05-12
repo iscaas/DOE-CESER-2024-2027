@@ -1,0 +1,3 @@
+racc_api.c:16:1:crypto_sign_keypair	57504	static
+racc_api.c:35:1:crypto_sign	73936	static
+racc_api.c:70:1:crypto_sign_open	57552	static

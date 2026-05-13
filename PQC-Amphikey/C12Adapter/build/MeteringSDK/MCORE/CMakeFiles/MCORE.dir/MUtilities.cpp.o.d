@@ -1,0 +1,50 @@
+MeteringSDK/MCORE/CMakeFiles/MCORE.dir/MUtilities.cpp.o: \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MUtilities.cpp \
+ /usr/include/stdc-predef.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCOREExtern.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MUtilities.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MTimer.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCOREDefs.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCOREFuncs.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MObject.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MClass.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MVariant.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MSharedString.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MInterlocked.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MClassMethods.inc \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MObjectMethods.inc \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MObjectMethods.inc \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MReflectedMacros.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MTypeCasting.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MPropertyDefinition.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MServiceDefinition.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MScopeSaviors.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MVersion.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MException.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MFileNameAndLineNumber.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MMessageCatalog.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MMessageFile.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MSharedPointer.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MErrorEnum.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MStreamSocket.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MStreamSocketBase.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MStream.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MException.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MSockOptEnum.h \
+ /usr/include/netinet/tcp.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/sys/socket.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MStreamFile.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MTime.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MMath.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MStr.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MAlgorithm.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MFindFile.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCriticalSection.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MVariantParser.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MJavaEnv.h \
+ /usr/include/unistd.h /usr/include/x86_64-linux-gnu/sys/utsname.h \
+ /usr/include/x86_64-linux-gnu/bits/utsname.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/private/base64.cxx \
+ /usr/include/string.h

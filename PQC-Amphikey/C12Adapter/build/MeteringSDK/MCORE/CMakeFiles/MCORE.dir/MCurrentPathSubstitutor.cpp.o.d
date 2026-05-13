@@ -1,0 +1,23 @@
+MeteringSDK/MCORE/CMakeFiles/MCORE.dir/MCurrentPathSubstitutor.cpp.o: \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCurrentPathSubstitutor.cpp \
+ /usr/include/stdc-predef.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCOREExtern.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCurrentPathSubstitutor.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCOREDefs.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MCOREFuncs.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MUtilities.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MTimer.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MObject.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MClass.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MVariant.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MSharedString.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MInterlocked.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MClassMethods.inc \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MObjectMethods.inc \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MObjectMethods.inc \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MReflectedMacros.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MTypeCasting.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MPropertyDefinition.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MServiceDefinition.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MScopeSaviors.h \
+ /home/kazi/C12Adapter/src/MeteringSDK/MCORE/MVersion.h

@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+d2560846fdd5b40046b7515a3442af66 MeteringSDK/MCOM/MCOMExtern.h.gch
+18d853b4322dcd8c95407469d062e110 MeteringSDK/MCORE/MCOREExtern.h.gch

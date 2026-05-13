@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wno-unused-variable -fPIC -O2 -g -rdynamic CMakeFiles/c1222client.dir/c1222_client.cpp.o -o c1222client  ../../../MeteringSDK/MCORE/libMCORE.a ../../../MeteringSDK/MCOM/libMCOM.a ../../../MeteringSDK/MCORE/libMCORE.a -Wl,-Bstatic -lrt -Wl,-Bdynamic 
